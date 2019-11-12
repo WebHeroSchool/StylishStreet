@@ -1,0 +1,63 @@
+body {
+  background-color: #FFFAFA;
+}
+.button {
+  display: block;
+  width: 150px;
+  font-size: 14px;
+  line-height: 28px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: transparent;
+  border: 2px solid;
+  text-align: center;
+  margin: auto;
+  color: #000;
+  border-color: #000000
+  margin-top: 20px;
+}
+.image {
+ display:block; margin:0 auto;
+}
+
+.nav__list {
+  margin-right : 20px;
+}
+.nav {
+  text-align: center;
+  margin-top: 20px;
+
+}
+.foot {
+  text-align: center;
+  margin-top: 50px;
+  text-align: center;
+}
+.footer__descr {
+  margin-right: 10px;
+  color: blue;
+  text-align: center;
+}
+.head {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 300% ;
+  color: black;
+ }
+ p {
+  text-align: center;
+ }
+ h2 {
+  text-align: center;
+ }
+ .section {
+  margin-right: 20px;
+ }
+ .navigation {
+  text-align: center;
+  margin-top: 50px;
+ }
+ section {
+  margin-top: 50px;
+ }
